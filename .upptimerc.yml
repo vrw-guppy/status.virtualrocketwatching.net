@@ -15,8 +15,12 @@ sites:
     url: https://spacex.com
   - name: RocketLab
     url: https://rocketlabcorp.com/
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; Guppy/1.0; +https://github.com/medaka0213)"
   - name: Blue Origin
     url: https://www.blueorigin.com/
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; Guppy/1.0; +https://github.com/medaka0213)"
   - name: JAXA
     url: https://www.jaxa.jp/
   - name: NASA
