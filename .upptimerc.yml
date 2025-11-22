@@ -3,23 +3,60 @@ owner: vrw-guppy # Your GitHub organization or username, where this repository l
 repo: status.virtualrocketwatching.net # The name of this repository
 
 sites:
-  - name: Web - Virtual Rocket Watching
+  - name: VRW Web
     url: https://www.virtualrocketwatching.net
-  - name: Misskey - Virtual Rocket Watching
+  - name: VRW Misskey
     url: https://misskey.virtualrocketwatching.net
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Youtube
+    url: https://www.youtube.com
+  - name: SpaceX
+    url: https://spacex.com
+  - name: RocketLab
+    url: https://rocketlabcorp.com/
+  - name: Blue Origin
+    url: https://www.blueorigin.com/
+  - name: JAXA
+    url: https://www.jaxa.jp/
+  - name: NASA
+    url: https://www.nasa.gov/
+  - name: ESA
+    url: https://www.esa.int/
+  - name: FAA
+    url: https://www.faa.gov/
+  - name: The Space Devs
+    url: https://thespacedevs.com/
+  - name: Next Spaceflight
+    url: https://nextspaceflight.com/
+  - name: Spaceflight Now
+    url: https://spaceflightnow.com/
+  - name: NASA Spaceflight
+    url: https://www.nasaspaceflight.com/
+  - name: Space News
+    url: https://spacenews.com/
+  - name: Space.com
+    url: https://www.space.com/
+  - name: X
+    url: https://x.com
+  - name: Misskey
+    url: https://misskey.io
+  - name: Google DNS 1
     check: "tcp-ping"
-    ipv6: true
+    url: 8.8.4.4
+    port: 53
+  - name: Google DNS 2
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
+  - name: Cloudflare DNS 1
+    check: "tcp-ping"
+    url: 1.1.1.1
+    port: 53
+  - name: Cloudflare DNS 2
+    check: "tcp-ping"
+    url: 1.0.0.1
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
