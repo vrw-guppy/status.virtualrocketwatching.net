@@ -17,10 +17,12 @@ sites:
     url: https://rocketlabcorp.com/
     expectedStatusCodes:
       - 403
+      - 429
   - name: Blue Origin
     url: https://www.blueorigin.com/
     expectedStatusCodes:
       - 403
+      - 429
   - name: JAXA
     url: https://www.jaxa.jp/
   - name: NASA
