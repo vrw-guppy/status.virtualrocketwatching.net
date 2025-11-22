@@ -33,6 +33,10 @@ sites:
     url: https://www.faa.gov/
   - name: NVS
     url: https://nvs-live.com/
+  - name: Gunter
+    url: https://space.skyrocket.de/
+  - name: CelesTrak
+    url: https://celestrak.org/
   - name: The Space Devs
     url: https://thespacedevs.com/
   - name: Next Spaceflight
@@ -53,12 +57,20 @@ sites:
     url: https://uchubiz.com/
   - name: ClearUsui
     url: https://clearusui.com/
+  - name: RussianSpaceWeb
+    url: https://www.russianspaceweb.com/
   - name: X
     url: https://x.com
   - name: Misskey
     url: https://misskey.io
   - name: Booth
     url: https://booth.pm/
+  - name: WeChat
+    url: https://mp.weixin.qq.com
+  - name: Weibo
+    url: https://weibo.com/
+  - name: Telegram
+    url: https://telegram.org/
   - name: ChatGPT
     url: https://www.chatgpt.com
     expectedStatusCodes:
