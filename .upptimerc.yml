@@ -112,7 +112,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://img.virtualrocketwatching.net/image/image_4524f41a-0cb4-470f-b0c2-5dbddb9ff8b4.svg
   name: Status - Virtual Rocket Watching
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "「ロケット打ち上げを観る集会」障害情報・サービス稼働情報"
   introMessage: This page uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
