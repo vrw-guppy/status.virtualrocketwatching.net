@@ -61,10 +61,16 @@ sites:
     url: https://booth.pm/
   - name: ChatGPT
     url: https://www.chatgpt.com
+    expectedStatusCodes:
+      - 403
+      - 429
   - name: Gemini
     url: https://gemini.google.com
   - name: Claude
     url: https://claude.ai
+    expectedStatusCodes:
+      - 403
+      - 429
   - name: GitHub
     url: https://github.com
   - name: Google DNS 1
