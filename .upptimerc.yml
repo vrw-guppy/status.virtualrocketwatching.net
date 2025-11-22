@@ -7,6 +7,8 @@ sites:
     url: https://www.virtualrocketwatching.net
   - name: VRW Misskey
     url: https://misskey.virtualrocketwatching.net
+  - name: VRChat
+    url: https://vrchat.com/
   - name: Google
     url: https://www.google.com
   - name: Youtube
