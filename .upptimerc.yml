@@ -31,6 +31,8 @@ sites:
     url: https://www.esa.int/
   - name: FAA
     url: https://www.faa.gov/
+  - name: NVS
+    url: https://nvs-live.com/
   - name: The Space Devs
     url: https://thespacedevs.com/
   - name: Next Spaceflight
@@ -43,10 +45,25 @@ sites:
     url: https://spacenews.com/
   - name: Space.com
     url: https://www.space.com/
+  - name: 日経新聞
+    url: https://www.nikkei.com/
+  - name: Sorae
+    url: https://sorae.info/
+  - name: UchuBiz
+    url: https://uchubiz.com/
+  - name: 
   - name: X
     url: https://x.com
   - name: Misskey
     url: https://misskey.io
+  - name: ChatGPT
+    url: https://www.chatgpt.com
+  - name: Gemini
+    url: https://gemini.google.com
+  - name: Claude
+    url: https://claude.ai
+  - name: GitHub
+    url: https://github.com
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4
