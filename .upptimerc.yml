@@ -51,11 +51,14 @@ sites:
     url: https://sorae.info/
   - name: UchuBiz
     url: https://uchubiz.com/
-  - name: 
+  - name: 宇推くりあ
+    url: https://clearusui.com/
   - name: X
     url: https://x.com
   - name: Misskey
     url: https://misskey.io
+  - name: Booth
+    url: https://booth.pm/
   - name: ChatGPT
     url: https://www.chatgpt.com
   - name: Gemini
