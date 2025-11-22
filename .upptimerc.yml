@@ -45,13 +45,13 @@ sites:
     url: https://spacenews.com/
   - name: Space.com
     url: https://www.space.com/
-  - name: 日経新聞
+  - name: Nikkei News
     url: https://www.nikkei.com/
   - name: Sorae
     url: https://sorae.info/
   - name: UchuBiz
     url: https://uchubiz.com/
-  - name: 宇推くりあ
+  - name: ClearUsui
     url: https://clearusui.com/
   - name: X
     url: https://x.com
@@ -91,8 +91,7 @@ sites:
     port: 53
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: ocean
   cname: status.virtualrocketwatching.net
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
