@@ -550,19 +550,19 @@
     "url": "https://mp.weixin.qq.com",
     "icon": "https://icons.duckduckgo.com/ip3/mp.weixin.qq.com.ico",
     "slug": "we-chat",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1353,
-    "timeDay": 1215,
-    "timeWeek": 1353,
-    "timeMonth": 1353,
-    "timeYear": 1353,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1352,
+    "timeDay": 1244,
+    "timeWeek": 1352,
+    "timeMonth": 1352,
+    "timeYear": 1352,
     "dailyMinutesDown": {
-      "2025-11-27": 0
+      "2025-11-27": 8
     }
   },
   {
