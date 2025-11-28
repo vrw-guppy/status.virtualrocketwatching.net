@@ -40,19 +40,19 @@
     "url": "https://vrchat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vrchat.com.ico",
     "slug": "vr-chat",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 349,
-    "timeDay": 303,
-    "timeWeek": 349,
-    "timeMonth": 349,
-    "timeYear": 349,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 362,
+    "timeDay": 341,
+    "timeWeek": 362,
+    "timeMonth": 362,
+    "timeYear": 362,
     "dailyMinutesDown": {
-      "2025-11-28": 16
+      "2025-11-28": 22
     }
   },
   {
@@ -317,18 +317,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/spaceflightnow.com.ico",
     "slug": "spaceflight-now",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 211,
     "timeDay": 254,
     "timeWeek": 211,
     "timeMonth": 211,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-11-28": 0
+      "2025-11-28": 6
     }
   },
   {
