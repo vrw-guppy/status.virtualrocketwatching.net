@@ -1,7 +1,7 @@
 url: https://spacex.com
-status: down
-code: 500
-responseTime: 452
-lastUpdated: 2025-12-05T08:52:32.137Z
+status: up
+code: 200
+responseTime: 381
+lastUpdated: 2025-12-05T09:23:24.252Z
 startTime: 2025-11-22T03:33:55.127Z
 generator: Upptime <https://github.com/upptime/upptime>
