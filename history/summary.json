@@ -307,19 +307,19 @@
     "url": "https://nextspaceflight.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nextspaceflight.com.ico",
     "slug": "next-spaceflight",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 289,
-    "timeWeek": 239,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 288,
+    "timeDay": 220,
+    "timeWeek": 228,
+    "timeMonth": 288,
+    "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-12-07": 0
+      "2025-12-07": 50
     }
   },
   {
