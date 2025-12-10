@@ -43,6 +43,10 @@ sites:
     url: https://thespacedevs.com/
   - name: Next Spaceflight
     url: https://nextspaceflight.com/
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 429
   - name: Spaceflight Now
     url: https://spaceflightnow.com/
   - name: NASA Spaceflight
