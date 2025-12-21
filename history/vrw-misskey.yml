@@ -1,7 +1,7 @@
 url: https://misskey.virtualrocketwatching.net
-status: up
-code: 200
-responseTime: 628
-lastUpdated: 2025-12-20T23:01:00.458Z
+status: down
+code: 503
+responseTime: 546
+lastUpdated: 2025-12-21T05:46:56.196Z
 startTime: 2025-11-22T03:33:53.286Z
 generator: Upptime <https://github.com/upptime/upptime>
