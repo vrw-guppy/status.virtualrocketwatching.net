@@ -168,7 +168,7 @@
     "uptime": "56.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.81%",
+    "uptimeMonth": "43.84%",
     "uptimeYear": "56.18%",
     "time": 162,
     "timeDay": 76,
@@ -503,19 +503,19 @@
     "url": "https://sorae.info/",
     "icon": "https://icons.duckduckgo.com/ip3/sorae.info.ico",
     "slug": "sorae",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 370,
-    "timeDay": 204,
-    "timeWeek": 255,
-    "timeMonth": 273,
-    "timeYear": 370,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
+    "time": 369,
+    "timeDay": 235,
+    "timeWeek": 260,
+    "timeMonth": 274,
+    "timeYear": 369,
     "dailyMinutesDown": {
-      "2026-01-22": 18
+      "2026-01-22": 30
     }
   },
   {
@@ -793,7 +793,7 @@
     "time": 292,
     "timeDay": 177,
     "timeWeek": 198,
-    "timeMonth": 366,
+    "timeMonth": 151,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2025-12-24": 15
