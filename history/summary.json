@@ -169,7 +169,7 @@
     "uptime": "60.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.94%",
+    "uptimeMonth": "66.97%",
     "uptimeYear": "60.66%",
     "time": 161,
     "timeDay": 187,
@@ -508,10 +508,10 @@
     "url": "https://sorae.info/",
     "icon": "https://icons.duckduckgo.com/ip3/sorae.info.ico",
     "slug": "sorae",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
     "time": 351,
@@ -520,6 +520,7 @@
     "timeMonth": 259,
     "timeYear": 351,
     "dailyMinutesDown": {
+      "2026-01-29": 1,
       "2026-01-22": 74
     }
   },
@@ -691,19 +692,19 @@
     "url": "https://weibo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/weibo.com.ico",
     "slug": "weibo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2856,
-    "timeDay": 0,
-    "timeWeek": 2867,
-    "timeMonth": 2731,
-    "timeYear": 2856,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 2849,
+    "timeDay": 2308,
+    "timeWeek": 2787,
+    "timeMonth": 2717,
+    "timeYear": 2849,
     "dailyMinutesDown": {
-      "2026-01-29": 0
+      "2026-01-29": 13
     }
   },
   {
