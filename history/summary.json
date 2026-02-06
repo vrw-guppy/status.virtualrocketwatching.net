@@ -167,11 +167,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.blueorigin.com.ico",
     "slug": "blue-origin",
     "status": "up",
-    "uptime": "64.31%",
+    "uptime": "64.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.10%",
-    "uptimeYear": "64.31%",
+    "uptimeMonth": "90.18%",
+    "uptimeYear": "64.32%",
     "time": 159,
     "timeDay": 212,
     "timeWeek": 130,
@@ -345,12 +345,12 @@
     "status": "up",
     "uptime": "99.66%",
     "uptimeDay": "98.58%",
-    "uptimeWeek": "98.96%",
+    "uptimeWeek": "99.33%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.66%",
     "time": 737,
     "timeDay": 474,
-    "timeWeek": 506,
+    "timeWeek": 531,
     "timeMonth": 651,
     "timeYear": 737,
     "dailyMinutesDown": {
@@ -534,9 +534,9 @@
     "url": "https://uchubiz.com/",
     "icon": "https://icons.duckduckgo.com/ip3/uchubiz.com.ico",
     "slug": "uchu-biz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -545,7 +545,9 @@
     "timeWeek": 1061,
     "timeMonth": 696,
     "timeYear": 532,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-06": 0
+    }
   },
   {
     "name": "ClearUsui",
