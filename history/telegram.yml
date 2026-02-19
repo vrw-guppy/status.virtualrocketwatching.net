@@ -1,7 +1,7 @@
 url: https://telegram.org/
-status: up
-code: 200
-responseTime: 716
-lastUpdated: 2026-02-18T23:05:59.062Z
+status: down
+code: 502
+responseTime: 529
+lastUpdated: 2026-02-19T21:00:40.887Z
 startTime: 2025-11-22T04:22:33.312Z
 generator: Upptime <https://github.com/upptime/upptime>
