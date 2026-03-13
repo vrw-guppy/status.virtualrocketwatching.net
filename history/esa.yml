@@ -1,7 +1,7 @@
 url: https://www.esa.int/
-status: down
-code: 403
-responseTime: 1363
-lastUpdated: 2026-03-13T05:55:35.500Z
+status: up
+code: 200
+responseTime: 610
+lastUpdated: 2026-03-13T06:16:04.076Z
 startTime: 2025-11-22T03:34:00.333Z
 generator: Upptime <https://github.com/upptime/upptime>
