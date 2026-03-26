@@ -1,7 +1,7 @@
 url: https://celestrak.org/
-status: down
-code: 500
-responseTime: 3575
-lastUpdated: 2026-03-26T12:26:02.445Z
+status: up
+code: 200
+responseTime: 254
+lastUpdated: 2026-03-26T12:48:10.338Z
 startTime: 2025-11-22T04:22:13.413Z
 generator: Upptime <https://github.com/upptime/upptime>
