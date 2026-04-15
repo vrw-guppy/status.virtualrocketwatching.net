@@ -1,7 +1,7 @@
 url: https://www.nasa.gov/
-status: up
-code: 200
-responseTime: 52
-lastUpdated: 2026-04-14T23:12:54.412Z
+status: down
+code: 429
+responseTime: 113
+lastUpdated: 2026-04-15T11:00:30.599Z
 startTime: 2025-11-22T03:33:59.785Z
 generator: Upptime <https://github.com/upptime/upptime>
