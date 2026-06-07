@@ -178,7 +178,7 @@
     "timeYear": 132,
     "dailyMinutesDown": {
       "2025-11-22": 11,
-      "2026-06-07": 1405,
+      "2026-06-07": 1415,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -463,16 +463,16 @@
     "url": "https://nvs-live.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nvs-live.com.ico",
     "slug": "nvs",
-    "status": "down",
+    "status": "up",
     "uptime": "97.74%",
-    "uptimeDay": "89.14%",
-    "uptimeWeek": "90.83%",
-    "uptimeMonth": "87.85%",
+    "uptimeDay": "88.50%",
+    "uptimeWeek": "90.74%",
+    "uptimeMonth": "87.83%",
     "uptimeYear": "97.74%",
     "time": 649,
-    "timeDay": 614,
-    "timeWeek": 614,
-    "timeMonth": 633,
+    "timeDay": 636,
+    "timeWeek": 618,
+    "timeMonth": 634,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2026-04-30": 143,
@@ -511,7 +511,7 @@
       "2026-06-04": 115,
       "2026-06-05": 67,
       "2026-06-06": 72,
-      "2026-06-07": 157
+      "2026-06-07": 166
     }
   },
   {
