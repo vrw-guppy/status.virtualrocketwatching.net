@@ -178,7 +178,7 @@
     "timeYear": 127,
     "dailyMinutesDown": {
       "2025-11-22": 11,
-      "2026-06-21": 1135,
+      "2026-06-21": 1168,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -925,16 +925,16 @@
     "url": "https://abehiroshi.la.coocan.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/abehiroshi.la.coocan.jp.ico",
     "slug": "abe-hiroshi",
-    "status": "down",
-    "uptime": "98.90%",
-    "uptimeDay": "54.55%",
-    "uptimeWeek": "78.46%",
-    "uptimeMonth": "94.93%",
-    "uptimeYear": "98.90%",
+    "status": "up",
+    "uptime": "98.89%",
+    "uptimeDay": "54.60%",
+    "uptimeWeek": "78.14%",
+    "uptimeMonth": "94.85%",
+    "uptimeYear": "98.89%",
     "time": 759,
-    "timeDay": 605,
-    "timeWeek": 651,
-    "timeMonth": 690,
+    "timeDay": 611,
+    "timeWeek": 652,
+    "timeMonth": 691,
     "timeYear": 759,
     "dailyMinutesDown": {
       "2026-03-17": 50,
@@ -945,7 +945,7 @@
       "2026-06-18": 191,
       "2026-06-19": 574,
       "2026-06-20": 987,
-      "2026-06-21": 418
+      "2026-06-21": 451
     }
   },
   {
