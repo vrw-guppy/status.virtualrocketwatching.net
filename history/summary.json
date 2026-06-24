@@ -178,7 +178,7 @@
     "timeYear": 126,
     "dailyMinutesDown": {
       "2025-11-22": 11,
-      "2026-06-24": 593,
+      "2026-06-24": 594,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -315,11 +315,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.blueorigin.com.ico",
     "slug": "blue-origin",
     "status": "up",
-    "uptime": "87.36%",
+    "uptime": "87.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.36%",
+    "uptimeYear": "87.37%",
     "time": 152,
     "timeDay": 247,
     "timeWeek": 154,
@@ -482,8 +482,8 @@
     "slug": "nvs",
     "status": "up",
     "uptime": "97.74%",
-    "uptimeDay": "95.27%",
-    "uptimeWeek": "95.86%",
+    "uptimeDay": "95.20%",
+    "uptimeWeek": "95.85%",
     "uptimeMonth": "92.65%",
     "uptimeYear": "97.74%",
     "time": 646,
@@ -536,7 +536,7 @@
       "2026-06-21": 76,
       "2026-06-22": 83,
       "2026-06-23": 67,
-      "2026-06-24": 1
+      "2026-06-24": 2
     }
   },
   {
