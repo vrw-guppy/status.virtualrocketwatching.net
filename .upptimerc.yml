@@ -65,6 +65,10 @@ sites:
     url: https://clearusui.com/
   - name: AbeHiroshi
     url: https://abehiroshi.la.coocan.jp/
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 429
   - name: RussianSpaceWeb
     url: https://www.russianspaceweb.com/
   - name: X
