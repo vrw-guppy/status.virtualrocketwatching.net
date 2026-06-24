@@ -18,11 +18,13 @@ sites:
   - name: RocketLab
     url: https://rocketlabcorp.com/
     expectedStatusCodes:
+      - 200
       - 403
       - 429
   - name: Blue Origin
     url: https://www.blueorigin.com/
     expectedStatusCodes:
+      - 200
       - 403
       - 429
   - name: JAXA
@@ -86,6 +88,7 @@ sites:
   - name: ChatGPT
     url: https://www.chatgpt.com
     expectedStatusCodes:
+      - 200
       - 403
       - 429
   - name: Gemini
@@ -93,6 +96,7 @@ sites:
   - name: Claude
     url: https://claude.ai
     expectedStatusCodes:
+      - 200
       - 403
       - 429
   - name: GitHub
