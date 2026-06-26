@@ -167,11 +167,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rocketlabcorp.com.ico",
     "slug": "rocket-lab",
     "status": "up",
-    "uptime": "40.70%",
+    "uptime": "40.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "28.58%",
-    "uptimeMonth": "4.67%",
-    "uptimeYear": "40.70%",
+    "uptimeWeek": "29.27%",
+    "uptimeMonth": "4.83%",
+    "uptimeYear": "40.71%",
     "time": 130,
     "timeDay": 183,
     "timeWeek": 179,
@@ -481,10 +481,10 @@
     "url": "https://nvs-live.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nvs-live.com.ico",
     "slug": "nvs",
-    "status": "up",
+    "status": "down",
     "uptime": "97.72%",
-    "uptimeDay": "85.94%",
-    "uptimeWeek": "95.14%",
+    "uptimeDay": "85.89%",
+    "uptimeWeek": "95.13%",
     "uptimeMonth": "92.54%",
     "uptimeYear": "97.72%",
     "time": 644,
@@ -493,7 +493,7 @@
     "timeMonth": 622,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2026-05-09": 36,
+      "2026-05-09": 16,
       "2026-05-10": 231,
       "2026-05-11": 159,
       "2026-05-12": 58,
@@ -537,7 +537,7 @@
       "2026-06-22": 83,
       "2026-06-23": 67,
       "2026-06-25": 62,
-      "2026-06-26": 140
+      "2026-06-26": 141
     }
   },
   {
