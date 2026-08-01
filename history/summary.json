@@ -172,11 +172,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rocketlabcorp.com.ico",
     "slug": "rocket-lab",
     "status": "up",
-    "uptime": "49.16%",
+    "uptime": "49.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.16%",
+    "uptimeYear": "49.17%",
     "time": 129,
     "timeDay": 98,
     "timeWeek": 130,
@@ -1073,17 +1073,17 @@
     "url": "https://mp.weixin.qq.com",
     "icon": "https://icons.duckduckgo.com/ip3/mp.weixin.qq.com.ico",
     "slug": "we-chat",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.58%",
-    "time": 1314,
-    "timeDay": 1166,
-    "timeWeek": 1341,
-    "timeMonth": 1292,
-    "timeYear": 1314,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "93.74%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.55%",
+    "time": 1313,
+    "timeDay": 1133,
+    "timeWeek": 1311,
+    "timeMonth": 1285,
+    "timeYear": 1313,
     "dailyMinutesDown": {
       "2025-11-28": 17,
       "2025-12-16": 16,
@@ -1127,7 +1127,7 @@
       "2026-07-02": 147,
       "2026-07-07": 89,
       "2026-07-06": 1,
-      "2026-08-01": 1
+      "2026-08-01": 90
     }
   },
   {
@@ -1135,10 +1135,10 @@
     "url": "https://weibo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/weibo.com.ico",
     "slug": "weibo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "90.18%",
-    "uptimeWeek": "95.13%",
+    "uptimeDay": "90.12%",
+    "uptimeWeek": "95.12%",
     "uptimeMonth": "98.88%",
     "uptimeYear": "99.86%",
     "time": 2767,
@@ -1148,7 +1148,8 @@
     "timeYear": 2767,
     "dailyMinutesDown": {
       "2026-07-30": 350,
-      "2026-07-31": 142
+      "2026-07-31": 142,
+      "2026-08-01": 1
     }
   },
   {
