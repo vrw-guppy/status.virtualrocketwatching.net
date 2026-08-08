@@ -622,16 +622,16 @@
     "url": "https://celestrak.org/",
     "icon": "https://icons.duckduckgo.com/ip3/celestrak.org.ico",
     "slug": "celes-trak",
-    "status": "down",
+    "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "98.43%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "98.39%",
     "uptimeYear": "98.86%",
     "time": 613,
-    "timeDay": 286,
-    "timeWeek": 338,
-    "timeMonth": 437,
+    "timeDay": 368,
+    "timeWeek": 354,
+    "timeMonth": 440,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2026-02-18": 19,
@@ -710,7 +710,7 @@
       "2026-08-04": 25,
       "2026-08-05": 27,
       "2026-08-07": 16,
-      "2026-08-08": 1
+      "2026-08-08": 20
     }
   },
   {
