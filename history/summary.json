@@ -172,11 +172,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rocketlabcorp.com.ico",
     "slug": "rocket-lab",
     "status": "up",
-    "uptime": "50.59%",
+    "uptime": "50.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.59%",
+    "uptimeYear": "50.61%",
     "time": 128,
     "timeDay": 86,
     "timeWeek": 104,
@@ -487,17 +487,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nvs-live.com.ico",
     "slug": "nvs",
     "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "91.09%",
-    "uptimeWeek": "94.65%",
-    "uptimeMonth": "96.08%",
-    "uptimeYear": "98.44%",
+    "uptime": "98.42%",
+    "uptimeDay": "94.04%",
+    "uptimeWeek": "94.75%",
+    "uptimeMonth": "96.11%",
+    "uptimeYear": "98.42%",
     "time": 640,
-    "timeDay": 675,
+    "timeDay": 667,
     "timeWeek": 655,
     "timeMonth": 624,
     "timeYear": 640,
     "dailyMinutesDown": {
+      "2026-05-27": 72,
       "2026-05-28": 83,
       "2026-05-29": 63,
       "2026-05-30": 116,
@@ -553,7 +554,7 @@
       "2026-08-05": 36,
       "2026-08-06": 49,
       "2026-08-07": 152,
-      "2026-08-08": 91
+      "2026-08-08": 81
     }
   },
   {
@@ -621,11 +622,11 @@
     "url": "https://celestrak.org/",
     "icon": "https://icons.duckduckgo.com/ip3/celestrak.org.ico",
     "slug": "celes-trak",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "98.59%",
+    "uptimeDay": "98.55%",
     "uptimeWeek": "98.54%",
-    "uptimeMonth": "98.39%",
+    "uptimeMonth": "98.38%",
     "uptimeYear": "98.86%",
     "time": 612,
     "timeDay": 360,
@@ -633,7 +634,6 @@
     "timeMonth": 434,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2026-02-18": 19,
       "2026-02-21": 42,
       "2026-02-24": 23,
       "2026-03-05": 20,
@@ -709,7 +709,7 @@
       "2026-08-04": 25,
       "2026-08-05": 27,
       "2026-08-07": 16,
-      "2026-08-08": 20
+      "2026-08-08": 21
     }
   },
   {
