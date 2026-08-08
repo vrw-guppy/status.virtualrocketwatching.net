@@ -486,17 +486,17 @@
     "url": "https://nvs-live.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nvs-live.com.ico",
     "slug": "nvs",
-    "status": "down",
+    "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "86.93%",
-    "uptimeWeek": "94.70%",
-    "uptimeMonth": "96.09%",
+    "uptimeDay": "86.59%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "96.08%",
     "uptimeYear": "98.44%",
-    "time": 640,
-    "timeDay": 652,
-    "timeWeek": 659,
-    "timeMonth": 622,
-    "timeYear": 640,
+    "time": 641,
+    "timeDay": 659,
+    "timeWeek": 661,
+    "timeMonth": 624,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2026-05-28": 83,
       "2026-05-29": 63,
@@ -553,7 +553,7 @@
       "2026-08-05": 36,
       "2026-08-06": 49,
       "2026-08-07": 152,
-      "2026-08-08": 86
+      "2026-08-08": 91
     }
   },
   {
@@ -621,17 +621,17 @@
     "url": "https://celestrak.org/",
     "icon": "https://icons.duckduckgo.com/ip3/celestrak.org.ico",
     "slug": "celes-trak",
-    "status": "down",
+    "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "98.38%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "98.37%",
     "uptimeYear": "98.86%",
-    "time": 613,
-    "timeDay": 368,
-    "timeWeek": 354,
-    "timeMonth": 440,
-    "timeYear": 613,
+    "time": 612,
+    "timeDay": 350,
+    "timeWeek": 349,
+    "timeMonth": 436,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2026-02-21": 42,
       "2026-02-24": 23,
@@ -708,7 +708,7 @@
       "2026-08-04": 25,
       "2026-08-05": 27,
       "2026-08-07": 16,
-      "2026-08-08": 21
+      "2026-08-08": 25
     }
   },
   {
