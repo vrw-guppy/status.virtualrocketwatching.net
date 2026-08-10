@@ -171,17 +171,17 @@
     "url": "https://rocketlabcorp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rocketlabcorp.com.ico",
     "slug": "rocket-lab",
-    "status": "down",
-    "uptime": "50.98%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "50.98%",
-    "time": 163,
-    "timeDay": 4847,
-    "timeWeek": 1295,
-    "timeMonth": 482,
-    "timeYear": 163,
+    "status": "up",
+    "uptime": "50.97%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "50.97%",
+    "time": 162,
+    "timeDay": 3250,
+    "timeWeek": 1157,
+    "timeMonth": 467,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2025-11-22": 11,
       "2026-06-24": 595,
@@ -313,7 +313,7 @@
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1190,
-      "2026-08-10": 6
+      "2026-08-10": 18
     }
   },
   {
@@ -487,16 +487,16 @@
     "url": "https://nvs-live.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nvs-live.com.ico",
     "slug": "nvs",
-    "status": "down",
+    "status": "up",
     "uptime": "98.48%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "96.21%",
-    "uptimeMonth": "96.02%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "95.99%",
     "uptimeYear": "98.48%",
     "time": 647,
-    "timeDay": 482,
-    "timeWeek": 757,
-    "timeMonth": 686,
+    "timeDay": 488,
+    "timeWeek": 748,
+    "timeMonth": 683,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2026-05-30": 116,
@@ -554,7 +554,7 @@
       "2026-08-07": 152,
       "2026-08-08": 81,
       "2026-08-09": 36,
-      "2026-08-10": 1
+      "2026-08-10": 13
     }
   },
   {
