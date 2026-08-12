@@ -487,16 +487,16 @@
     "url": "https://nvs-live.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nvs-live.com.ico",
     "slug": "nvs",
-    "status": "down",
+    "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "93.81%",
-    "uptimeWeek": "95.21%",
-    "uptimeMonth": "96.20%",
+    "uptimeDay": "92.98%",
+    "uptimeWeek": "95.09%",
+    "uptimeMonth": "96.17%",
     "uptimeYear": "98.52%",
     "time": 647,
-    "timeDay": 707,
-    "timeWeek": 739,
-    "timeMonth": 683,
+    "timeDay": 669,
+    "timeWeek": 733,
+    "timeMonth": 680,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2026-06-01": 225,
@@ -553,7 +553,7 @@
       "2026-08-08": 81,
       "2026-08-09": 36,
       "2026-08-11": 76,
-      "2026-08-12": 89
+      "2026-08-12": 101
     }
   },
   {
