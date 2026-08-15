@@ -173,11 +173,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rocketlabcorp.com.ico",
     "slug": "rocket-lab",
     "status": "up",
-    "uptime": "51.92%",
+    "uptime": "51.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "51.92%",
+    "uptimeYear": "51.93%",
     "time": 161,
     "timeDay": 90,
     "timeWeek": 1151,
@@ -488,11 +488,11 @@
     "url": "https://nvs-live.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nvs-live.com.ico",
     "slug": "nvs",
-    "status": "up",
+    "status": "down",
     "uptime": "98.65%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "95.63%",
-    "uptimeMonth": "96.05%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "95.67%",
+    "uptimeMonth": "96.06%",
     "uptimeYear": "98.65%",
     "time": 644,
     "timeDay": 586,
@@ -552,7 +552,7 @@
       "2026-08-12": 88,
       "2026-08-13": 100,
       "2026-08-14": 136,
-      "2026-08-15": 5
+      "2026-08-15": 1
     }
   },
   {
@@ -893,11 +893,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sorae.info.ico",
     "slug": "sorae",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "21.27%",
-    "uptimeWeek": "88.75%",
-    "uptimeMonth": "97.41%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.63%",
+    "uptimeDay": "18.10%",
+    "uptimeWeek": "88.30%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "99.63%",
     "time": 273,
     "timeDay": 100,
     "timeWeek": 595,
@@ -908,7 +908,7 @@
       "2026-04-13": 73,
       "2026-04-22": 37,
       "2026-05-11": 63,
-      "2026-08-15": 1134
+      "2026-08-15": 1179
     }
   },
   {
