@@ -488,17 +488,17 @@
     "url": "https://nvs-live.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nvs-live.com.ico",
     "slug": "nvs",
-    "status": "down",
+    "status": "up",
     "uptime": "98.65%",
-    "uptimeDay": "93.38%",
-    "uptimeWeek": "95.67%",
-    "uptimeMonth": "96.06%",
+    "uptimeDay": "93.46%",
+    "uptimeWeek": "95.64%",
+    "uptimeMonth": "96.05%",
     "uptimeYear": "98.65%",
-    "time": 645,
-    "timeDay": 582,
-    "timeWeek": 695,
-    "timeMonth": 662,
-    "timeYear": 645,
+    "time": 644,
+    "timeDay": 568,
+    "timeWeek": 689,
+    "timeMonth": 660,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2026-06-06": 23,
       "2026-06-07": 156,
@@ -552,7 +552,7 @@
       "2026-08-12": 88,
       "2026-08-13": 100,
       "2026-08-14": 136,
-      "2026-08-15": 1
+      "2026-08-15": 3
     }
   },
   {
@@ -622,7 +622,7 @@
     "slug": "celes-trak",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "98.74%",
+    "uptimeDay": "98.99%",
     "uptimeWeek": "97.87%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "98.90%",
@@ -894,9 +894,9 @@
     "slug": "sorae",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "54.15%",
-    "uptimeWeek": "93.45%",
-    "uptimeMonth": "98.49%",
+    "uptimeDay": "53.90%",
+    "uptimeWeek": "93.41%",
+    "uptimeMonth": "98.48%",
     "uptimeYear": "99.76%",
     "time": 273,
     "timeDay": 100,
@@ -908,7 +908,7 @@
       "2026-04-13": 73,
       "2026-04-22": 37,
       "2026-05-11": 63,
-      "2026-08-15": 660
+      "2026-08-15": 664
     }
   },
   {
