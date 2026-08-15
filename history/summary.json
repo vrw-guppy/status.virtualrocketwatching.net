@@ -488,16 +488,16 @@
     "url": "https://nvs-live.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nvs-live.com.ico",
     "slug": "nvs",
-    "status": "down",
-    "uptime": "98.65%",
-    "uptimeDay": "92.97%",
-    "uptimeWeek": "95.67%",
-    "uptimeMonth": "96.06%",
-    "uptimeYear": "98.65%",
+    "status": "up",
+    "uptime": "98.64%",
+    "uptimeDay": "92.48%",
+    "uptimeWeek": "95.60%",
+    "uptimeMonth": "96.04%",
+    "uptimeYear": "98.64%",
     "time": 645,
-    "timeDay": 576,
-    "timeWeek": 696,
-    "timeMonth": 663,
+    "timeDay": 582,
+    "timeWeek": 695,
+    "timeMonth": 662,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2026-06-06": 23,
@@ -552,7 +552,7 @@
       "2026-08-12": 88,
       "2026-08-13": 100,
       "2026-08-14": 136,
-      "2026-08-15": 1
+      "2026-08-15": 8
     }
   },
   {
@@ -894,9 +894,9 @@
     "slug": "sorae",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "61.38%",
-    "uptimeWeek": "94.48%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "60.82%",
+    "uptimeWeek": "94.40%",
+    "uptimeMonth": "98.71%",
     "uptimeYear": "99.79%",
     "time": 273,
     "timeDay": 100,
@@ -908,7 +908,7 @@
       "2026-04-13": 73,
       "2026-04-22": 37,
       "2026-05-11": 63,
-      "2026-08-15": 556
+      "2026-08-15": 564
     }
   },
   {
