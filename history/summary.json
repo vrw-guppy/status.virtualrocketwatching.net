@@ -619,17 +619,17 @@
     "url": "https://celestrak.org/",
     "icon": "https://icons.duckduckgo.com/ip3/celestrak.org.ico",
     "slug": "celes-trak",
-    "status": "down",
+    "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "98.47%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "98.91%",
-    "time": 602,
-    "timeDay": 341,
-    "timeWeek": 454,
-    "timeMonth": 442,
-    "timeYear": 602,
+    "time": 606,
+    "timeDay": 884,
+    "timeWeek": 527,
+    "timeMonth": 477,
+    "timeYear": 606,
     "dailyMinutesDown": {
       "2026-03-13": 30,
       "2026-03-16": 53,
@@ -706,7 +706,7 @@
       "2026-08-12": 75,
       "2026-08-13": 27,
       "2026-08-14": 23,
-      "2026-08-16": 1
+      "2026-08-16": 8
     }
   },
   {
@@ -895,8 +895,8 @@
     "status": "down",
     "uptime": "99.51%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.90%",
-    "uptimeMonth": "96.30%",
+    "uptimeWeek": "83.82%",
+    "uptimeMonth": "96.28%",
     "uptimeYear": "99.51%",
     "time": 272,
     "timeDay": 16,
@@ -908,7 +908,7 @@
       "2026-04-13": 73,
       "2026-04-22": 37,
       "2026-05-11": 63,
-      "2026-08-16": 363,
+      "2026-08-16": 371,
       "2026-08-15": 1260
     }
   },
