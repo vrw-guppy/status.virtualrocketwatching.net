@@ -492,7 +492,7 @@
     "uptime": "98.65%",
     "uptimeDay": "98.95%",
     "uptimeWeek": "95.88%",
-    "uptimeMonth": "96.18%",
+    "uptimeMonth": "96.20%",
     "uptimeYear": "98.65%",
     "time": 642,
     "timeDay": 568,
@@ -620,16 +620,16 @@
     "url": "https://celestrak.org/",
     "icon": "https://icons.duckduckgo.com/ip3/celestrak.org.ico",
     "slug": "celes-trak",
-    "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "98.92%",
+    "status": "up",
+    "uptime": "98.91%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "98.91%",
     "time": 603,
-    "timeDay": 228,
-    "timeWeek": 482,
-    "timeMonth": 464,
+    "timeDay": 284,
+    "timeWeek": 483,
+    "timeMonth": 465,
     "timeYear": 603,
     "dailyMinutesDown": {
       "2026-03-13": 30,
@@ -707,7 +707,7 @@
       "2026-08-12": 75,
       "2026-08-13": 27,
       "2026-08-14": 23,
-      "2026-08-17": 1
+      "2026-08-17": 11
     }
   },
   {
@@ -896,8 +896,8 @@
     "status": "down",
     "uptime": "99.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.02%",
-    "uptimeMonth": "92.18%",
+    "uptimeWeek": "65.91%",
+    "uptimeMonth": "92.16%",
     "uptimeYear": "99.05%",
     "time": 271,
     "timeDay": 25,
@@ -909,7 +909,7 @@
       "2026-04-13": 73,
       "2026-04-22": 37,
       "2026-05-11": 63,
-      "2026-08-17": 725,
+      "2026-08-17": 736,
       "2026-08-16": 1440,
       "2026-08-15": 1260
     }
