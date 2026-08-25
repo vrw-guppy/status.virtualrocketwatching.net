@@ -489,15 +489,15 @@
     "url": "https://nvs-live.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nvs-live.com.ico",
     "slug": "nvs",
-    "status": "down",
+    "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "97.51%",
-    "uptimeMonth": "96.26%",
+    "uptimeDay": "94.19%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "96.25%",
     "uptimeYear": "98.79%",
     "time": 641,
-    "timeDay": 602,
-    "timeWeek": 623,
+    "timeDay": 637,
+    "timeWeek": 629,
     "timeMonth": 641,
     "timeYear": 641,
     "dailyMinutesDown": {
@@ -553,7 +553,7 @@
       "2026-08-21": 18,
       "2026-08-22": 16,
       "2026-08-24": 107,
-      "2026-08-25": 78
+      "2026-08-25": 84
     }
   },
   {
@@ -622,11 +622,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/celestrak.org.ico",
     "slug": "celes-trak",
     "status": "down",
-    "uptime": "98.94%",
-    "uptimeDay": "96.86%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.94%",
+    "uptime": "98.93%",
+    "uptimeDay": "96.06%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "98.93%",
     "time": 596,
     "timeDay": 329,
     "timeWeek": 365,
@@ -708,7 +708,7 @@
       "2026-08-20": 18,
       "2026-08-23": 17,
       "2026-08-24": 85,
-      "2026-08-25": 45
+      "2026-08-25": 56
     }
   },
   {
@@ -898,7 +898,7 @@
     "uptime": "96.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.54%",
+    "uptimeMonth": "64.51%",
     "uptimeYear": "96.04%",
     "time": 265,
     "timeDay": 66,
@@ -910,7 +910,7 @@
       "2026-04-13": 73,
       "2026-04-22": 37,
       "2026-05-11": 63,
-      "2026-08-25": 1314,
+      "2026-08-25": 1325,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
