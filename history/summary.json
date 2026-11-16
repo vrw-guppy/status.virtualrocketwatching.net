@@ -925,11 +925,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sorae.info.ico",
     "slug": "sorae",
     "status": "down",
-    "uptime": "74.17%",
+    "uptime": "74.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "6.15%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.17%",
+    "uptimeYear": "74.16%",
     "time": 218,
     "timeDay": 39,
     "timeWeek": 66,
@@ -1032,7 +1032,7 @@
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1260,
-      "2026-11-16": 147,
+      "2026-11-16": 233,
       "2026-11-15": 1440
     }
   },
