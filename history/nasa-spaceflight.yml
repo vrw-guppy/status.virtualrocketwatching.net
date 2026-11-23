@@ -1,7 +1,7 @@
 url: https://www.nasaspaceflight.com/
-status: down
-code: 403
-responseTime: 41
-lastUpdated: 2026-11-22T15:47:22.754Z
+status: up
+code: 200
+responseTime: 135
+lastUpdated: 2026-11-23T01:46:10.083Z
 startTime: 2025-11-22T03:34:03.454Z
 generator: Upptime <https://github.com/upptime/upptime>
